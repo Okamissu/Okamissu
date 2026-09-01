@@ -1,64 +1,241 @@
-# Cześć, jestem Kamil! (Okamissu) 👋
+# Cześć, jestem Kamil 👋
+
+### Junior Full-Stack Developer · JavaScript / TypeScript
+
+Jestem absolwentem studiów licencjackich i obecnie kończę studia magisterskie na kierunku **Elektroniczne Przetwarzanie Informacji** na **Uniwersytecie Jagiellońskim**.
+
+Interesuję się tworzeniem aplikacji webowych i inżynierią oprogramowania. Najbliżej mi obecnie do ekosystemu **JavaScript / TypeScript**, szczególnie **React, Node.js i Express**, ale mam również doświadczenie z **PHP / Symfony, Pythonem, SQL i NoSQL**.
 
 <p align="left">
-  <img src="https://shields.io" alt="UJ Student">
-  <img src="https://shields.io" alt="Kraków">
-  <img src="https://shields.io" alt="Status">
+  <a href="https://github.com/Okamissu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kamil-kobylarz1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-Jestem studentem studiów magisterskich na **Uniwersytecie Jagiellońskim** (kierunek: Elektroniczne Przetwarzanie Informacji). Skupiam się na rozwoju w obszarze **Full-Stack Web Developmentu**, budując aplikacje w oparciu o ekosystem **JavaScript oraz TypeScript**.
+---
 
-Aktualnie intensywnie realizuję zaawansowany program **Full Stack Open** (University of Helsinki). Opanowałem już solidny rdzeń frontendowo-backendowy wraz z typowaniem w TS, a obecnie poszerzam wiedzę o architekturę Next.js, konteneryzację (Docker) oraz automatyzację wdrażania (CI/CD). Po ukończeniu kursu planuję autorskie, produkcyjne projekty i rozpocząć karierę jako Junior Developer.
+## 🛠️ Tech Stack
+
+### Primary Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router">
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" alt="Zustand">
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### Testing & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="React Testing Library">
+  <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=node.js&logoColor=white" alt="Supertest">
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
+
+### Also Worked With
+
+**Python · Flask · Pandas · NumPy · PHP · Symfony · SQL · GraphQL · C · C++**
 
 ---
 
-### 🛠️ Moje Umiejętności & Stos Technologiczny
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%"><strong>Główny Stack (JS / TS)</strong></td>
-    <td align="center" width="50%"><strong>Bazy danych, Testy & DevOps</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • **Frontend:** React, React Router, TanStack Query, Zustand<br>
-      • **Backend:** Node.js, Express.js<br>
-      • **Języki:** TypeScript, JavaScript (ES6+)<br>
-      • *W trakcie nauki:* Next.js
-    </td>
-    <td valign="top">
-      • **Bazy danych:** MongoDB, MySQL, PostgreSQL <br>
-      • **Testowanie:** Vitest, Jest, Playwright, RTL<br>
-      • **Narzędzia:** Git, GitHub Actions, Docker, CI/CD
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left">
-      <small>💡 <strong>Inne technologie (znajomość akademicka/studia UJ):</strong> Python (Flask, Pandas, NumPy), PHP (Symfony).</small>
-    </td>
-  </tr>
-</table>
+### [`llm-cultural-analysis`](https://github.com/Okamissu/llm-cultural-analysis)
+
+**Master's Thesis · LLM & Web Application**
+
+A full-stack research application developed as part of my master's thesis at the **Jagiellonian University**.
+
+The application investigates how **language and cultural prompting affects responses generated by Large Language Models**. It compares Polish and English prompts, analyses generated responses using embeddings and performs automated qualitative evaluation with an LLM acting as a judge.
+
+**Highlights**
+
+* Polish ↔ English prompt comparison
+* OpenAI API integration
+* Semantic similarity analysis using embeddings
+* PCA visualization of embeddings
+* Automated LLM-based evaluation
+* Experiment history and statistics dashboard
+* JSON export
+* Responsive React interface
+* English / Polish localization
+
+**Stack:** React · React Router · Tailwind CSS · Node.js · Express · Prisma · MySQL · OpenAI API
 
 ---
 
-### 🎓 Projekty Akademickie (Uniwersytet Jagielloński)
+### [`Questions-and-Answers`](https://github.com/Okamissu/Questions-and-Answers)
 
-Mimo że na co dzień skupiam się na ekosystemie JS/TS, w ramach studiów zrealizowałem dwa duże projekty:
+**Full-Stack Web Application · University Project**
 
-*   **`llm-cultural-analysis`** – *[Praca Magisterska]* Repozytorium badawcze na UJ, w którym wykorzystuję skrypty w Pythonie do statystycznej i porównawczej analizy danych tekstowych generowanych przez modele LLM.
-*   **`Questions-and-Answers`** – Pełnowymiarowa aplikacja webowa typu Q&A stworzona na studiach w architekturze **PHP / Symfony (Backend) + React (Frontend)**.
+A full-stack Q&A platform developed as part of my studies at the **Jagiellonian University**.
+
+The application consists of a **React frontend** and **Symfony backend API**, with authentication, CRUD operations, internationalization, dark/light mode and automated testing.
+
+**Highlights**
+
+* JWT authentication
+* CRUD for questions, categories, tags and users
+* React frontend with Symfony REST API
+* Internationalization
+* Dark / light mode
+* Unit and integration testing
+* ~92% line coverage
+* Docker-based development environment
+* Deployment to a university server
+
+**Stack:** React · PHP · Symfony · MySQL · Docker · PHPUnit
+
+🔗 [Live Demo](https://wierzba.wzks.uj.edu.pl/~20_kobylarz/qa-app/)
 
 ---
 
-### 📈 Statystyki GitHub
+## 🎓 Education
+
+### Jagiellonian University
+
+**MSc · Electronic Information Processing**
+2024 – 2026
+
+Studies focused on advanced programming, data analysis, artificial intelligence and user-oriented digital solutions.
+
+Relevant areas:
+
+* Advanced programming
+* Data analysis with Python
+* PHP / Symfony
+* Test-Driven Development
+* Semantic analysis
+* Information extraction
+* Artificial intelligence
+* Software documentation
+
+---
+
+**BSc · Electronic Information Processing**
+2020 – 2023 · **Grade: 5.0**
+
+Relevant areas:
+
+* Algorithms & data structures
+* Databases and relational modelling
+* Web application development
+* Python / Flask
+* PHP / Symfony
+* JavaScript
+* Linux and networking
+* UML and software modelling
+* Agile and other development methodologies
+
+---
+
+## 📚 Courses & Continuous Learning
+
+### Full Stack Open · University of Helsinki
+
+Currently progressing through the **Full Stack Open** course, focused on modern JavaScript-based web development.
+
+**Completed**
+
+* Parts 0–7
+* Part 9 — TypeScript
+
+Covered topics include:
+
+* Fundamentals of Web Apps
+* React
+* REST APIs
+* Node.js & Express
+* Testing React and Express applications
+* React Router
+* State management
+* GraphQL
+* TypeScript
+
+**Currently working through**
+
+* Part 11 — CI/CD
+* Part 12 — Containers
+* Part 13 — Using relational databases
+* Part 14 — Next.js
+
+🔗 [Full Stack Open](https://fullstackopen.com/en/)
+
+### Scrimba
+
+Completed learning paths focused on:
+
+* **Frontend Development**
+* **AI Engineering**
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for opportunities to grow as a **Junior Developer**.
+
+I'm particularly interested in:
+
+* **Full-Stack Development**
+* **Frontend Development**
+* **Backend Development**
+* **Software Testing / QA**
+
+I'm looking for a team where I can contribute to real projects, learn from experienced developers and continue developing strong software engineering practices.
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in web development, software engineering, LLM-related projects or just want to talk tech, feel free to reach out.
+
+<p align="left">
+  <a href="https://github.com/Okamissu">
+    <img src="https://img.shields.io/badge/GitHub-Okamissu-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kamil-kobylarz1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kamil%20Kobylarz-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Statystyki Okamissu" width="48%">
-  <img src="https://vercel.app" alt="Najczęściej używane języki" width="48%">
+  <i>Building, testing, learning, and shipping.</i>
 </p>
-
----
-
-### 🌐 Kontakt
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
