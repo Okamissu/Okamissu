@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer · JavaScript / TypeScript
 
-Absolwent i obecnie student studiów magisterskich **Elektronicznego Przetwarzania Informacji** na **Uniwersytecie Jagiellońskim**.
+Absolwent studiów licencjackich, a obecnie student studiów magisterskich **Elektronicznego Przetwarzania Informacji** na **Uniwersytecie Jagiellońskim**.
 
 Tworzę aplikacje webowe i rozwijam się w kierunku **Full-Stack Development**. 
 Najbliżej mi do **JavaScript / TypeScript**, szczególnie **React, Node.js i Express**. Mam również doświadczenie z **PHP / Symfony, Pythonem, SQL i NoSQL**.
@@ -101,6 +101,7 @@ Q&A platform built with **React and Symfony**, featuring JWT authentication, CRU
 **Jagiellonian University**
 
 **MSc · Electronic Information Processing** · 2024–2026
+
 **BSc · Electronic Information Processing** · 2020–2023 · **Grade: 5.0**
 
 ---
